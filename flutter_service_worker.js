@@ -11,17 +11,21 @@ const RESOURCES = {
 "assets/fonts/BigShouldersDisplay-ExtraBold.ttf": "185c5a8a9d8468a77a1f97d088a04007",
 "assets/fonts/BigShouldersDisplay-Regular.ttf": "1fe48df13b450f96904f68cc34d12965",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d15593fe3682522d5cf713d5ba307f7a",
+"assets/NOTICES": "806eca6514ddc27bfc56d0afb8b8e3cf",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "545b129d738dddd81cc259d95a95b650",
-"/": "545b129d738dddd81cc259d95a95b650",
-"main.dart.js": "5500bced72fbcb3310611e86fb6e9dd7",
+"index.html": "b437fbedb777c4f6391e66bb8878b05f",
+"/": "b437fbedb777c4f6391e66bb8878b05f",
+"main.dart.js": "9f1e885e9a792cf726a0faa0e635335e",
 "manifest.json": "9f78207f15c7900eca7fd79fd6b8bf0d",
-"version.json": "43e6f8d97fcab4d024b40962d15f1983"
+"version.json": "00a064811a1326ef49c71e9b8d36a984"
 };
 
 // The application shell files that are downloaded before a service worker can
