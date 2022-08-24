@@ -4,26 +4,27 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "9c18022ef6907c9955a02ed9f3617303",
-"assets/assets/background.png": "95fc09a06c3982d9c3f7de157a7e4599",
+"assets/assets/background.png": "5ce45a13df66969645d66b2316b1b79a",
 "assets/assets/front_background.png": "8b36723fda3e06eb44f3356dfc81ffaa",
 "assets/FontManifest.json": "ff609acbfca9625ac29a6e7d79e078e0",
 "assets/fonts/BigShouldersDisplay-Bold.ttf": "ede3799127cbec0f20b461ba2eadee50",
 "assets/fonts/BigShouldersDisplay-ExtraBold.ttf": "185c5a8a9d8468a77a1f97d088a04007",
 "assets/fonts/BigShouldersDisplay-Regular.ttf": "1fe48df13b450f96904f68cc34d12965",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "12dac90f5d302f32977914182fd1efb3",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/NOTICES": "a901f1933f67a9643a2c81f959b1a361",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6ca81edba46a898dafc75ecb2a317428",
-"/": "6ca81edba46a898dafc75ecb2a317428",
-"main.dart.js": "975a09739df30ca4d1bc76bd26571b91",
+"index.html": "b0a17f1d10aa3142e9c8c2d5c1568bc4",
+"/": "b0a17f1d10aa3142e9c8c2d5c1568bc4",
+"main.dart.js": "512fc845e2765b3810fbe2148a7d37ee",
 "manifest.json": "9f78207f15c7900eca7fd79fd6b8bf0d",
 "version.json": "00a064811a1326ef49c71e9b8d36a984"
 };
@@ -31,8 +32,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
