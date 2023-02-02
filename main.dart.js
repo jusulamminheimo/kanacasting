@@ -8249,7 +8249,7 @@ azX(a){switch(a){case"de_nuke":return B.dk
 case"de_inferno":return B.cq
 case"de_ancient":return B.dm
 case"de_overpass":return B.dl
-case"de_dust2":return B.dq
+case"de_anubis":return B.dq
 case"de_vertigo":return B.dn
 case"de_mirage":return B.dp}return B.cq},
 j1:function j1(a,b){this.a=a
@@ -38308,7 +38308,7 @@ o.l(0,"inferno",A.a6(["homeWonPercent",a.eJ(q.w.a,B.cq,a.f),"awayWonPercent",a.e
 o.l(0,"ancient",A.a6(["homeWonPercent",a.eJ(q.w.a,B.dm,a.f),"awayWonPercent",a.eJ(q.x.a,B.dm,a.r),"homeMapScore",a.eI(q.w.a,B.dm,a.f),"awayMapScore",a.eI(q.x.a,B.dm,a.r)],l,l))
 o.l(0,"vertigo",A.a6(["homeWonPercent",a.eJ(q.w.a,B.dn,a.f),"awayWonPercent",a.eJ(q.x.a,B.dn,a.r),"homeMapScore",a.eI(q.w.a,B.dn,a.f),"awayMapScore",a.eI(q.x.a,B.dn,a.r)],l,l))
 o.l(0,"mirage",A.a6(["homeWonPercent",a.eJ(q.w.a,B.dp,a.f),"awayWonPercent",a.eJ(q.x.a,B.dp,a.r),"homeMapScore",a.eI(q.w.a,B.dp,a.f),"awayMapScore",a.eI(q.x.a,B.dp,a.r)],l,l))
-o.l(0,"dust2",A.a6(["homeWonPercent",a.eJ(q.w.a,B.dq,a.f),"awayWonPercent",a.eJ(q.x.a,B.dq,a.r),"homeMapScore",a.eI(q.w.a,B.dq,a.f),"awayMapScore",a.eI(q.x.a,B.dq,a.r)],l,l))
+o.l(0,"anubis",A.a6(["homeWonPercent",a.eJ(q.w.a,B.dq,a.f),"awayWonPercent",a.eJ(q.x.a,B.dq,a.r),"homeMapScore",a.eI(q.w.a,B.dq,a.f),"awayMapScore",a.eI(q.x.a,B.dq,a.r)],l,l))
 s=3
 return A.T(p.F(0,o),$async$p8)
 case 3:m=c
@@ -38451,7 +38451,7 @@ r=J.TW(a.split("-")[1])
 q=t.p
 return A.cS(A.a([A.bq(p,p,24),A.aO(p,A.aC(b,p,p,p,n,B.be,p),p,p,p,p,p,p,50),A.dY(A.cS(A.a([A.aO(p,A.bE(A.aC(s,p,p,p,o,p,p),p,p),p,p,p,70,p,p,30),A.aO(p,A.bE(A.aC("-",p,p,p,o,p,p),p,p),p,p,p,70,p,p,30),A.aO(p,A.bE(A.aC(r,p,p,p,o,p,p),p,p),p,p,p,70,p,p,30),A.bq(p,p,46)],q),B.t,B.Q,B.o))],q),B.t,B.P,B.o)}}
 A.afo.prototype={
-$2(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="overpass",b="homeMapScore",a="awayMapScore",a0="homeWonPercent",a1="awayWonPercent",a2="nuke",a3="inferno",a4="ancient",a5="vertigo",a6="mirage",a7="dust2"
+$2(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="overpass",b="homeMapScore",a="awayMapScore",a0="homeWonPercent",a1="awayWonPercent",a2="nuke",a3="inferno",a4="ancient",a5="vertigo",a6="mirage",a7="anubis"
 if(a9.c!=null)return A.aC("Something went wrong",d,d,d,d,d,d)
 s=a9.b
 if(s!=null&&J.aj(s.b.d,"data")==null)return A.aC("Document does not exist",d,d,d,d,d,d)
@@ -38492,7 +38492,7 @@ g=q.lF(J.b1(J.aj(r.h(0,a6),a1)),l,f,g,"Mirage","https://i.ibb.co/DD7vbM6/mirage.
 f=J.b1(J.aj(r.h(0,a7),b))
 l=J.b1(J.aj(r.h(0,a7),a))
 e=J.b1(J.aj(r.h(0,a7),a0))
-return A.bE(A.cK(A.a([s,new A.cZ(new A.aB(300,0,300,0),n,d),o,m,k,j,i,h,g,q.lF(J.b1(J.aj(r.h(0,a7),a1)),l,e,f,"Dust2","https://i.ibb.co/pbBXWSv/dust2.png")],p),B.t,B.Q,B.o),d,d)}return A.bE(A.vo(),d,d)},
+return A.bE(A.cK(A.a([s,new A.cZ(new A.aB(300,0,300,0),n,d),o,m,k,j,i,h,g,q.lF(J.b1(J.aj(r.h(0,a7),a1)),l,e,f,"Anubis","https://i.ibb.co/TtgJ3f2/anubis.png")],p),B.t,B.Q,B.o),d,d)}return A.bE(A.vo(),d,d)},
 $S:26}
 A.ya.prototype={
 ag(){var s=$.bK,r=(s==null?$.bK=$.dW():s).di(0,"[DEFAULT]")
@@ -75341,7 +75341,7 @@ B.cq=new A.j1(2,"INFERNO")
 B.dm=new A.j1(3,"ANCIENT")
 B.dn=new A.j1(4,"VERTIGO")
 B.dp=new A.j1(5,"MIRAGE")
-B.dq=new A.j1(6,"DUST2")
+B.dq=new A.j1(6,"ANUBIS")
 B.GB=new A.xn(null,null,null,null,null)
 B.AH=new A.M(4293848814)
 B.AG=new A.M(4292269782)
