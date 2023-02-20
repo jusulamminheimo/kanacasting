@@ -41665,7 +41665,7 @@ xo(a){return this.aec(a)},
 aec(a){var s=0,r=A.T(t.xK),q,p,o,n,m
 var $async$xo=A.U(function(b,c){if(b===1)return A.Q(c,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.arx(A.fC("https://cssapi.kanalan.it/leagues/"+a+"?token=asdf1")),$async$xo)
+return A.Z(A.arx(A.fC("https://cs-api.kanaliiga.fi/leagues/"+a+"?token=asdf1")),$async$xo)
 case 3:p=c
 o=p.b
 n=p.e
@@ -41684,7 +41684,7 @@ km(a){return this.aef(a)},
 aef(a){var s=0,r=A.T(t.Zi),q,p
 var $async$km=A.U(function(b,c){if(b===1)return A.Q(c,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.arx(A.fC("https://cssapi.kanalan.it/teams/"+a+"?token=asdf1")),$async$km)
+return A.Z(A.arx(A.fC("https://cs-api.kanaliiga.fi/teams/"+a+"?token=asdf1")),$async$km)
 case 3:p=c
 if(p.b===200){A.fJ("api success")
 q=A.aLe(B.aS.rh(0,A.FD(J.au(A.Ft(p.e).c.a,"charset")).d4(0,p.w),null))
@@ -41698,7 +41698,7 @@ rC(a){return this.aed(a)},
 aed(a){var s=0,r=A.T(t.jK),q,p
 var $async$rC=A.U(function(b,c){if(b===1)return A.Q(c,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.arx(A.fC("https://cssapi.kanalan.it/matches/"+a+"?token=asdf1")),$async$rC)
+return A.Z(A.arx(A.fC("https://cs-api.kanaliiga.fi/matches/"+a+"?token=asdf1")),$async$rC)
 case 3:p=c
 if(p.b===200){A.fJ("api success")
 q=A.aJ9(B.aS.rh(0,A.FD(J.au(A.Ft(p.e).c.a,"charset")).d4(0,p.w),null))
@@ -41712,7 +41712,7 @@ rB(a){return this.aeb(a)},
 aeb(a){var s=0,r=A.T(t.Nl),q,p
 var $async$rB=A.U(function(b,c){if(b===1)return A.Q(c,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.arx(A.fC("https://cssapi.kanalan.it/teams/"+a+"/keyplayers?token=asdf1")),$async$rB)
+return A.Z(A.arx(A.fC("https://cs-api.kanaliiga.fi/teams/"+a+"/keyplayers?token=asdf1")),$async$rB)
 case 3:p=c
 if(p.b===200){A.fJ("api success")
 q=A.aIV(B.aS.rh(0,A.FD(J.au(A.Ft(p.e).c.a,"charset")).d4(0,p.w),null))
