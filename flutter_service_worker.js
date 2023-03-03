@@ -3,9 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1233855f99c519e0ddd4ff8aeef8deac",
+  "assets/AssetManifest.json": "39c65438c4e625ac9e264887692ca199",
 "assets/assets/background.png": "9d95286e609be703b423409f43f23326",
+"assets/assets/csgotausta.png": "6a6958137582d9c8c5c932ea1e70a0e9",
+"assets/assets/cticon.webp": "7f6c344ca6fb867f74611f09cd292c74",
 "assets/assets/front_background.png": "5ab37ee2c211d64cb1fcfe17584915f4",
+"assets/assets/ticon.webp": "15f01176c7d378f71e5b703deee7b314",
+"assets/assets/veto-ancient.jpg": "1a3ff1c4b37311293df961711a39c2cb",
+"assets/assets/veto-anubis.jpg": "1a54368e7b858057b1f62186eb27ef00",
+"assets/assets/veto-inferno.jpg": "9d294bab028761386c18716e933a4208",
+"assets/assets/veto-mirage.jpg": "074dabbc6e53a5c3f019ddd1b071605c",
+"assets/assets/veto-nuke.jpg": "7303ef49e2842a3d7a77a747f7c52515",
+"assets/assets/veto-overpass.jpg": "e9e7b3f9d27c3f4c845a0721bc490f1d",
+"assets/assets/veto-vertigo.jpg": "b6aa2defd7c4c898342d4cf91ff7cff8",
 "assets/FontManifest.json": "07e473f6a35438dc401e23e5ff64f73a",
 "assets/fonts/BigShouldersDisplay-Bold.ttf": "ede3799127cbec0f20b461ba2eadee50",
 "assets/fonts/BigShouldersDisplay-ExtraBold.ttf": "185c5a8a9d8468a77a1f97d088a04007",
@@ -31,9 +41,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fc2a08ac3361b164adc3e9eecd75fdc2",
-"/": "fc2a08ac3361b164adc3e9eecd75fdc2",
-"main.dart.js": "6c9287ba35ece692a24a909a26c5f258",
+"index.html": "8a4cb1621a00cca1b4494445d0fe002a",
+"/": "8a4cb1621a00cca1b4494445d0fe002a",
+"main.dart.js": "4a27367dfccce8a2a5af77fca2b2fd59",
 "manifest.json": "9f78207f15c7900eca7fd79fd6b8bf0d",
 "version.json": "00a064811a1326ef49c71e9b8d36a984"
 };
