@@ -43560,8 +43560,8 @@ r.m(0,"mapVetoSecond",o)
 r.m(0,"mapVetoStarter",o)
 r.m(0,"mapVetoMaps",o)
 r.m(0,"mapVetoMode",o)
-r.m(0,"firstMapSide",o)
-r.m(0,"secondMapSide",o)
+r.m(0,"firstMapStartingSide",o)
+r.m(0,"secondMapStartingSide",o)
 r.m(0,"maps",A.a9(["overpass",A.a9(["mapName","overpass","homeWonPercent",p.fQ(q.w.a,B.dR,p.f),"awayWonPercent",p.fQ(q.x.a,B.dR,p.r),"homeMapScore",p.fO(q.w.a,B.dR,p.f),"awayMapScore",p.fO(q.x.a,B.dR,p.r)],s,s),"nuke",A.a9(["homeWonPercent",p.fQ(q.w.a,B.dQ,p.f),"awayWonPercent",p.fQ(q.x.a,B.dQ,p.r),"homeMapScore",p.fO(q.w.a,B.dQ,p.f),"awayMapScore",p.fO(q.x.a,B.dQ,p.r)],s,s),"inferno",A.a9(["homeWonPercent",p.fQ(q.w.a,B.cU,p.f),"awayWonPercent",p.fQ(q.x.a,B.cU,p.r),"homeMapScore",p.fO(q.w.a,B.cU,p.f),"awayMapScore",p.fO(q.x.a,B.cU,p.r)],s,s),"ancient",A.a9(["homeWonPercent",p.fQ(q.w.a,B.dS,p.f),"awayWonPercent",p.fQ(q.x.a,B.dS,p.r),"homeMapScore",p.fO(q.w.a,B.dS,p.f),"awayMapScore",p.fO(q.x.a,B.dS,p.r)],s,s),"vertigo",A.a9(["homeWonPercent",p.fQ(q.w.a,B.dT,p.f),"awayWonPercent",p.fQ(q.x.a,B.dT,p.r),"homeMapScore",p.fO(q.w.a,B.dT,p.f),"awayMapScore",p.fO(q.x.a,B.dT,p.r)],s,s),"mirage",A.a9(["homeWonPercent",p.fQ(q.w.a,B.dU,p.f),"awayWonPercent",p.fQ(q.x.a,B.dU,p.r),"homeMapScore",p.fO(q.w.a,B.dU,p.f),"awayMapScore",p.fO(q.x.a,B.dU,p.r)],s,s),"anubis",A.a9(["homeWonPercent",p.fQ(q.w.a,B.dV,p.f),"awayWonPercent",p.fQ(q.x.a,B.dV,p.r),"homeMapScore",p.fO(q.w.a,B.dV,p.f),"awayMapScore",p.fO(q.x.a,B.dV,p.r)],s,s)],s,t.GU))
 return n.Wx(0,r)},
 $S:17}
