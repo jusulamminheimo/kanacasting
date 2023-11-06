@@ -42950,7 +42950,7 @@ break}case 1:return A.M(q,r)}})
 return A.N($async$tZ,r)}}
 A.rn.prototype={
 H(a){var s=null,r=t.p
-return A.dv(B.a9,A.a([A.aA(s,A.b8(A.a([A.bZ(A.a([A.iy("kanaliiga_logo.png"),B.yt,A.b8(A.a([this.WK("CS2"),B.Ng,this.WK("SEASON 1")],r),B.bo,B.r,B.m),A.d6(new A.d3(B.bA,s,s,A.b8(A.a([A.iy("sponsor_logos/vilpe.png"),B.bL,A.ap("Tournament Main Partner",s,s,s,s,B.z.cG(B.i,22,B.W),s,s)],r),B.o,B.r,B.m),s))],r),B.o,B.r,B.m),B.En,A.bZ(A.a([A.iy("sponsor_logos/cgi.png"),A.iy("sponsor_logos/etteplan.png"),A.iy("sponsor_logos/crowdcollective.png"),A.iy("sponsor_logos/nocco.png"),A.iy("sponsor_logos/barebells.png")],r),B.o,B.tm,B.m)],r),B.o,B.r,B.m),B.j,s,s,B.Ae,s,1080,s,B.Eg,s,s,1920),A.co(A.bt(this.c,s,s),1080,1920)],r),B.T,B.a1,s)},
+return A.dv(B.a9,A.a([A.aA(s,A.b8(A.a([A.bZ(A.a([A.iy("assets/kanaliiga_logo.png"),B.yt,A.b8(A.a([this.WK("CS2"),B.Ng,this.WK("SEASON 1")],r),B.bo,B.r,B.m),A.d6(new A.d3(B.bA,s,s,A.b8(A.a([A.iy("assets/sponsor_logos/vilpe.png"),B.bL,A.ap("Tournament Main Partner",s,s,s,s,B.z.cG(B.i,22,B.W),s,s)],r),B.o,B.r,B.m),s))],r),B.o,B.r,B.m),B.En,A.bZ(A.a([A.iy("assets/sponsor_logos/cgi.png"),A.iy("assets/sponsor_logos/etteplan.png"),A.iy("assets/sponsor_logos/crowdcollective.png"),A.iy("assets/sponsor_logos/nocco.png"),A.iy("assets/sponsor_logos/barebells.png")],r),B.o,B.tm,B.m)],r),B.o,B.r,B.m),B.j,s,s,B.Ad,s,1080,s,B.Eg,s,s,1920),A.co(A.bt(this.c,s,s),1080,1920)],r),B.T,B.a1,s)},
 WK(a){var s=null
 return A.aA(s,A.ap(a,s,s,s,s,B.z.cG(B.i,30,B.W),s,s),B.j,s,s,B.cT,s,s,s,B.mz,s,s,s)}}
 A.x4.prototype={
@@ -46395,7 +46395,7 @@ qz(a,b){return B.h}}
 A.Yk.prototype={}
 A.Iz.prototype={
 H(a){var s=null,r=A.bD(a,B.bz,t.w).w.f.b+8,q=this.c.Y(0,new A.j(8,r)),p=A.b8(this.d,B.o,B.r,B.ch),o=$.a4().ahR(20,20,B.bw)
-return new A.by(new A.ai(8,r,8,8),new A.iq(new A.J1(q),A.aA(s,A.aHk(A.rN(new A.by(B.Ef,p,s),new A.bj(B.D9.dj(a),s,A.ml(B.D7.dj(a),1),B.ic,s,s,B.x),B.cr),o),B.T,s,s,B.Ad,s,s,s,s,s,s,222),s),s)}}
+return new A.by(new A.ai(8,r,8,8),new A.iq(new A.J1(q),A.aA(s,A.aHk(A.rN(new A.by(B.Ef,p,s),new A.bj(B.D9.dj(a),s,A.ml(B.D7.dj(a),1),B.ic,s,s,B.x),B.cr),o),B.T,s,s,B.Ae,s,s,s,s,s,s,222),s),s)}}
 A.oM.prototype={
 a9(){return new A.CZ(B.k)}}
 A.CZ.prototype={
@@ -88135,8 +88135,8 @@ B.zK=new A.fo("assets/csgotausta.png",null,null)
 B.lk=new A.x3(0,"fill")
 B.cx=new A.tn(3,"noRepeat")
 B.e2=new A.y5(1,"low")
-B.Dn=new A.oP(B.zK,null,B.lk,B.e2)
-B.Ac=new A.bj(null,B.Dn,null,null,null,null,B.x)
+B.Do=new A.oP(B.zK,null,B.lk,B.e2)
+B.Ac=new A.bj(null,B.Do,null,null,null,null,B.x)
 B.Cp=new A.G(4283321934)
 B.Ci=new A.G(4280558628)
 B.Ga=A.a(s([B.Cp,B.Ci]),t.t_)
@@ -88152,21 +88152,21 @@ B.CE=new A.G(4293825037)
 B.Gb=A.a(s([B.ix,B.CE]),t.t_)
 B.fM=new A.iD(B.b7,B.bA,B.bw,B.Gb,null,null)
 B.cT=new A.bj(null,null,null,null,null,B.fM,B.x)
+B.zL=new A.fo("assets/background_empty.png",null,null)
+B.c7=new A.x3(2,"cover")
+B.Dm=new A.oP(B.zL,null,B.c7,B.e2)
+B.Ad=new A.bj(null,B.Dm,null,null,null,null,B.x)
 B.C2=new A.G(1006632960)
 B.tF=new A.j(0,4)
 B.As=new A.bk(0.5,B.C,B.C2,B.tF,10)
 B.Hk=A.a(s([B.As]),t.V)
-B.Ad=new A.bj(null,null,null,B.ic,B.Hk,null,B.x)
-B.zL=new A.fo("background_empty.png",null,null)
-B.c7=new A.x3(2,"cover")
-B.Do=new A.oP(B.zL,null,B.c7,B.e2)
-B.Ae=new A.bj(null,B.Do,null,null,null,null,B.x)
+B.Ae=new A.bj(null,null,null,B.ic,B.Hk,null,B.x)
 B.iz=new A.G(4294111986)
 B.Af=new A.bj(B.iz,null,null,null,null,null,B.x)
 B.Ag=new A.bj(B.D,null,null,null,null,null,B.x)
 B.zJ=new A.fo("assets/front_background.png",null,null)
-B.Dm=new A.oP(B.zJ,null,B.lk,B.e2)
-B.dK=new A.bj(null,B.Dm,null,null,null,null,B.x)
+B.Dn=new A.oP(B.zJ,null,B.lk,B.e2)
+B.dK=new A.bj(null,B.Dn,null,null,null,null,B.x)
 B.iv=new A.G(4290624957)
 B.zY=new A.bB(B.iv,0,B.aa,-1)
 B.zZ=new A.dD(B.w,B.w,B.zY,B.w)
