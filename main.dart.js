@@ -9052,7 +9052,7 @@ return new A.q7(s.h(a,"status"),A.co(J.rO(s.h(a,"data"),new A.abe()),!0,t.Vv))},
 aOR(a){switch(a){case"de_nuke":return B.es
 case"de_inferno":return B.dk
 case"de_ancient":return B.eu
-case"de_overpass":return B.et
+case"de_dust2":return B.et
 case"de_anubis":return B.ex
 case"de_vertigo":return B.ev
 case"de_mirage":return B.ew}return B.dk},
@@ -46261,7 +46261,7 @@ n=q.w
 m=p.a
 l=o.a
 k=t.N
-j.dw(0,i.ghM(i).a.c.h(0,"uid")).ZZ(0,A.a7(["homeTeam",p.b,"homeScore","0","awayTeam",o.b,"awayScore","0","time",q.d,"caster",q.e,"caster2",q.f,"div",q.r.b,"breakText","L\xe4hetys jatkuu hetken kuluttua","homeKeyPlayers",n.ana(),"awayKeyPlayers",n.aiT(),"maps",A.a7(["overpass",A.a7(["mapName","overpass","homeWonPercent",n.h1(m,B.et,n.f),"awayWonPercent",n.h1(l,B.et,n.r),"homeMapScore",n.h0(m,B.et,n.f),"awayMapScore",n.h0(l,B.et,n.r)],k,k),"nuke",A.a7(["homeWonPercent",n.h1(m,B.es,n.f),"awayWonPercent",n.h1(l,B.es,n.r),"homeMapScore",n.h0(m,B.es,n.f),"awayMapScore",n.h0(l,B.es,n.r)],k,k),"inferno",A.a7(["homeWonPercent",n.h1(m,B.dk,n.f),"awayWonPercent",n.h1(l,B.dk,n.r),"homeMapScore",n.h0(m,B.dk,n.f),"awayMapScore",n.h0(l,B.dk,n.r)],k,k),"ancient",A.a7(["homeWonPercent",n.h1(m,B.eu,n.f),"awayWonPercent",n.h1(l,B.eu,n.r),"homeMapScore",n.h0(m,B.eu,n.f),"awayMapScore",n.h0(l,B.eu,n.r)],k,k),"vertigo",A.a7(["homeWonPercent",n.h1(m,B.ev,n.f),"awayWonPercent",n.h1(l,B.ev,n.r),"homeMapScore",n.h0(m,B.ev,n.f),"awayMapScore",n.h0(l,B.ev,n.r)],k,k),"mirage",A.a7(["homeWonPercent",n.h1(m,B.ew,n.f),"awayWonPercent",n.h1(l,B.ew,n.r),"homeMapScore",n.h0(m,B.ew,n.f),"awayMapScore",n.h0(l,B.ew,n.r)],k,k),"anubis",A.a7(["homeWonPercent",n.h1(m,B.ex,n.f),"awayWonPercent",n.h1(l,B.ex,n.r),"homeMapScore",n.h0(m,B.ex,n.f),"awayMapScore",n.h0(l,B.ex,n.r)],k,k)],k,t.GU)],k,t.K))
+j.dw(0,i.ghM(i).a.c.h(0,"uid")).ZZ(0,A.a7(["homeTeam",p.b,"homeScore","0","awayTeam",o.b,"awayScore","0","time",q.d,"caster",q.e,"caster2",q.f,"div",q.r.b,"breakText","L\xe4hetys jatkuu hetken kuluttua","homeKeyPlayers",n.ana(),"awayKeyPlayers",n.aiT(),"maps",A.a7(["dust2",A.a7(["mapName","dust2","homeWonPercent",n.h1(m,B.et,n.f),"awayWonPercent",n.h1(l,B.et,n.r),"homeMapScore",n.h0(m,B.et,n.f),"awayMapScore",n.h0(l,B.et,n.r)],k,k),"nuke",A.a7(["homeWonPercent",n.h1(m,B.es,n.f),"awayWonPercent",n.h1(l,B.es,n.r),"homeMapScore",n.h0(m,B.es,n.f),"awayMapScore",n.h0(l,B.es,n.r)],k,k),"inferno",A.a7(["homeWonPercent",n.h1(m,B.dk,n.f),"awayWonPercent",n.h1(l,B.dk,n.r),"homeMapScore",n.h0(m,B.dk,n.f),"awayMapScore",n.h0(l,B.dk,n.r)],k,k),"ancient",A.a7(["homeWonPercent",n.h1(m,B.eu,n.f),"awayWonPercent",n.h1(l,B.eu,n.r),"homeMapScore",n.h0(m,B.eu,n.f),"awayMapScore",n.h0(l,B.eu,n.r)],k,k),"vertigo",A.a7(["homeWonPercent",n.h1(m,B.ev,n.f),"awayWonPercent",n.h1(l,B.ev,n.r),"homeMapScore",n.h0(m,B.ev,n.f),"awayMapScore",n.h0(l,B.ev,n.r)],k,k),"mirage",A.a7(["homeWonPercent",n.h1(m,B.ew,n.f),"awayWonPercent",n.h1(l,B.ew,n.r),"homeMapScore",n.h0(m,B.ew,n.f),"awayMapScore",n.h0(l,B.ew,n.r)],k,k),"anubis",A.a7(["homeWonPercent",n.h1(m,B.ex,n.f),"awayWonPercent",n.h1(l,B.ex,n.r),"homeMapScore",n.h0(m,B.ex,n.f),"awayMapScore",n.h0(l,B.ex,n.r)],k,k)],k,t.GU)],k,t.K))
 return A.M(null,r)}})
 return A.N($async$$0,r)},
 $S:12}
@@ -46709,6 +46709,7 @@ case"ancient":return"https://i.ibb.co/3R4XKkv/ancient.jpg"
 case"inferno":return s
 case"nuke":return"https://i.ibb.co/tHDwc3Y/nuke.jpg"
 case"overpass":return"https://i.ibb.co/h80rL5W/overpass.png"
+case"dust2":return"https://i.ibb.co/MpdB5wF/dust2.jpg"
 default:return s}},
 aj5(a){var s,r,q,p,o,n,m,l,k,j=null,i=t.p,h=A.a([],i),g=J.a0Y(a),f=g.dX(g)
 B.b.dF(f,new A.ap7())
@@ -46830,7 +46831,7 @@ if(a===6)return"BAN 4"
 return"BAN "+a}return b[a-1].a.toUpperCase()},
 rq(a,b){if(b==null||b.length<a){if(a===3)return"PICK 1"
 if(a===4)return"PICK 2"}return b[a-1].a.toUpperCase()},
-lv(a){var s,r,q,p=A.a(["anubis","ancient","vertigo","inferno","nuke","overpass","mirage"],t.s),o=a.d
+lv(a){var s,r,q,p=A.a(["anubis","ancient","vertigo","inferno","nuke","dust2","mirage"],t.s),o=a.d
 if(o==null||o.length===0)return"DECIDER"
 o.toString
 s=A.X(o).i("W<1,k>")
@@ -46838,7 +46839,7 @@ r=t.gD
 q=A.a8(new A.aN(p,new A.anp(A.a8(new A.W(o,new A.anq(),s),!0,s.i("aO.E"))),r),!0,r.i("n.E"))
 return q.length===1?B.b.gM(q).toUpperCase():"DECIDER"},
 n1(a){if(a==="nuke")return"assets/veto-nuke.jpg"
-if(a==="overpass")return"assets/veto-overpass.jpg"
+if(a==="dust2")return"assets/veto-overpass.jpg"
 if(a==="vertigo")return"assets/veto-vertigo.jpg"
 if(a==="inferno")return"assets/veto-inferno.jpg"
 if(a==="ancient")return"assets/veto-ancient.jpg"
@@ -47124,7 +47125,7 @@ o=B.b.uU(s,new A.aq9(p))
 s=this.a
 if(s.a.d==="team2"&&q.ay.length===0)$.af.fy$.push(new A.aqa(s,a,p))
 if(s.a.d==="team1"&&q.ch.length===0&&q.ay.length!==0)$.af.fy$.push(new A.aqb(s,a,o))}s=this.a
-s=A.a([A.at(s.ZG(q),n,n,n,n,B.Qb,n,n),B.bZ,s.oa("ancient",q),s.oa("anubis",q),s.oa("inferno",q),s.oa("mirage",q),s.oa("nuke",q),s.oa("overpass",q),s.oa("vertigo",q)],t.p)
+s=A.a([A.at(s.ZG(q),n,n,n,n,B.Qb,n,n),B.bZ,s.oa("ancient",q),s.oa("anubis",q),s.oa("inferno",q),s.oa("mirage",q),s.oa("nuke",q),s.oa("dust2",q),s.oa("vertigo",q)],t.p)
 r=q.ay
 if(r.length!==0)s.push(A.at(("FIRST MAP "+A.h(q.ax)+" STARTS ON "+r).toUpperCase(),n,n,n,n,B.f8,n,n))
 r=q.ch
@@ -47203,7 +47204,7 @@ if(a===6)return"BAN 4"
 return"BAN "+a}return b[a-1].a.toUpperCase()},
 rq(a,b){if(b==null||b.length<a){if(a===3)return"PICK 1"
 if(a===4)return"PICK 2"}return b[a-1].a.toUpperCase()},
-lv(a){var s,r,q,p=A.a(["anubis","ancient","vertigo","inferno","nuke","overpass","mirage"],t.s),o=a.d
+lv(a){var s,r,q,p=A.a(["anubis","ancient","vertigo","inferno","nuke","dust2","mirage"],t.s),o=a.d
 if(o==null||o.length===0)return"DECIDER"
 o.toString
 s=A.X(o).i("W<1,k>")
@@ -47211,7 +47212,7 @@ r=t.gD
 q=A.a8(new A.aN(p,new A.arW(A.a8(new A.W(o,new A.arX(),s),!0,s.i("aO.E"))),r),!0,r.i("n.E"))
 return q.length===1?B.b.gM(q).toUpperCase():"DECIDER"},
 n1(a){if(a==="nuke")return"assets/veto-nuke.jpg"
-if(a==="overpass")return"assets/veto-overpass.jpg"
+if(a==="dust2")return"assets/veto-overpass.jpg"
 if(a==="vertigo")return"assets/veto-vertigo.jpg"
 if(a==="inferno")return"assets/veto-inferno.jpg"
 if(a==="ancient")return"assets/veto-ancient.jpg"
@@ -94067,7 +94068,7 @@ B.HB=A.a(s([B.eo,null,null,B.jO]),t.L)
 B.HJ=A.a(s([B.bi,B.bi,B.bs,null]),t.L)
 B.K0=new A.cc(["*",B.HM,"+",B.HN,"-",B.HO,".",B.HP,"/",B.HQ,"0",B.GV,"1",B.GW,"2",B.GX,"3",B.GY,"4",B.GZ,"5",B.H_,"6",B.H0,"7",B.H1,"8",B.I_,"9",B.I0,"Alt",B.HG,"AltGraph",B.I1,"ArrowDown",B.H5,"ArrowLeft",B.H6,"ArrowRight",B.H7,"ArrowUp",B.Hk,"Clear",B.Hz,"Control",B.HH,"Delete",B.GS,"End",B.H8,"Enter",B.HR,"Home",B.H9,"Insert",B.HA,"Meta",B.HI,"PageDown",B.Ha,"PageUp",B.HB,"Shift",B.HJ],A.a9("cc<k,C<f?>>"))
 B.es=new A.lz(0,"nuke")
-B.et=new A.lz(1,"overpass")
+B.et=new A.lz(1,"dust2")
 B.dk=new A.lz(2,"inferno")
 B.eu=new A.lz(3,"ancient")
 B.ev=new A.lz(4,"vertigo")
