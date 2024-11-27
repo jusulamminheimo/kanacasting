@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "14dcf968f1ca78b7343a04f691738778",
-"assets/AssetManifest.json": "45bab5b85fbaaeedc82d2cd7baa568ed",
+const RESOURCES = {"assets/AssetManifest.bin": "c8cb80f14f10da9e4422d9a26e50fb47",
+"assets/AssetManifest.json": "bafaa937dbca3395947fb29f011b1eac",
 "assets/assets/background.png": "9d95286e609be703b423409f43f23326",
 "assets/assets/background_empty.png": "3e6a149bb6b908d3b02ec22d97267754",
 "assets/assets/csgotausta.png": "6a6958137582d9c8c5c932ea1e70a0e9",
@@ -25,6 +25,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "14dcf968f1ca78b7343a04f691738778
 "assets/assets/ticon.webp": "15f01176c7d378f71e5b703deee7b314",
 "assets/assets/veto-ancient.jpg": "1a3ff1c4b37311293df961711a39c2cb",
 "assets/assets/veto-anubis.jpg": "1a54368e7b858057b1f62186eb27ef00",
+"assets/assets/veto-dust2.jpg": "71354e0acedf339a8b29b2b5d4ada3f7",
 "assets/assets/veto-inferno.jpg": "9d294bab028761386c18716e933a4208",
 "assets/assets/veto-mirage.jpg": "074dabbc6e53a5c3f019ddd1b071605c",
 "assets/assets/veto-nuke.jpg": "7303ef49e2842a3d7a77a747f7c52515",
@@ -59,9 +60,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "14dcf968f1ca78b7343a04f691738778
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "95a4730ddc4a63cad1fd39242734120b",
-"/": "95a4730ddc4a63cad1fd39242734120b",
-"main.dart.js": "a394bb5719087af8da44bd69b0d80ba1",
+"index.html": "dc31487e1abbbb80e4d3284dd8f4cdcb",
+"/": "dc31487e1abbbb80e4d3284dd8f4cdcb",
+"main.dart.js": "6b9fbc03896bcb645f84af505e0a3aaf",
 "manifest.json": "9f78207f15c7900eca7fd79fd6b8bf0d",
 "version.json": "00a064811a1326ef49c71e9b8d36a984"};
 // The application shell files that are downloaded before a service worker can

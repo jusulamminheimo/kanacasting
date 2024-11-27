@@ -47212,7 +47212,8 @@ r=t.gD
 q=A.a8(new A.aN(p,new A.arW(A.a8(new A.W(o,new A.arX(),s),!0,s.i("aO.E"))),r),!0,r.i("n.E"))
 return q.length===1?B.b.gM(q).toUpperCase():"DECIDER"},
 n1(a){if(a==="nuke")return"assets/veto-nuke.jpg"
-if(a==="dust2")return"assets/veto-overpass.jpg"
+if(a==="dust2")return"assets/veto-dust2.jpg"
+if(a==="overpass")return"assets/veto-overpass.jpg"
 if(a==="vertigo")return"assets/veto-vertigo.jpg"
 if(a==="inferno")return"assets/veto-inferno.jpg"
 if(a==="ancient")return"assets/veto-ancient.jpg"
