@@ -47121,7 +47121,10 @@ if(r==null&&s===B.bi)return B.aE
 q=A.kP(r)
 if(q.as!=null&&this.a.e==null)$.a5.p3$.push(new A.aAl(this.a,q))
 s=this.a
-r=A.aT(g,A.aA("WE WILL BE STARTING IN",g,g,g,B.L.Vk(37,B.r),g,g),B.l,B.h,g,g,g,g,g,new A.ao(30,8,30,8),g,g,g)
+r=q.x
+r=r==null?g:r.toUpperCase()
+if(r==null)r="WE WILL BE STARTING IN"
+r=A.aT(g,A.aA(r,g,g,g,B.L.Vk(37,B.r),g,g),B.l,B.h,g,g,g,g,g,new A.ao(30,8,30,8),g,g,g)
 p=A.bx(g,12,g)
 if(s.r)o="SOON"
 else{n=s.f
