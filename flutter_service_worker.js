@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ae9331c823a62cef6ae637fe02962f9c",
-"assets/AssetManifest.bin.json": "1e1cd634f18ad08e45636101b8fcd67e",
-"assets/AssetManifest.json": "18434ef4f05651e7b74d6dfb12edf684",
+const RESOURCES = {"assets/AssetManifest.bin": "c20ceaa536c119ee812e64e27ed14d72",
+"assets/AssetManifest.bin.json": "d6776c6737adff10cadcadbbef37937e",
+"assets/AssetManifest.json": "012660891afa93b4182ff8a8745da9f7",
 "assets/assets/background.png": "9d95286e609be703b423409f43f23326",
 "assets/assets/background_empty.png": "3e6a149bb6b908d3b02ec22d97267754",
 "assets/assets/csgotausta.png": "6a6958137582d9c8c5c932ea1e70a0e9",
@@ -14,7 +14,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "ae9331c823a62cef6ae637fe02962f9c
 "assets/assets/front_background.png": "5ab37ee2c211d64cb1fcfe17584915f4",
 "assets/assets/kanaliiga_logo.png": "2bfb7c6e4fc8631d7459b58a4894ea41",
 "assets/assets/sponsor_logos/atflow.png": "bc16baf314aa4a9014580a5948747dde",
+"assets/assets/sponsor_logos/cave.png": "a9b58c11494702bc6e24632671b41d03",
 "assets/assets/sponsor_logos/elisa.png": "71c6b75f429ac5a9bd6cbfdd3ee84373",
+"assets/assets/sponsor_logos/red_bull.png": "0e464a471a9692d03bfd8d17c06af887",
 "assets/assets/sponsor_logos/supermetrics.png": "f017654cb87d64faaa1decf8231c4aab",
 "assets/assets/sponsor_logos/tnnet.png": "ad88974df5be4d5c7061627bd51648a3",
 "assets/assets/sponsor_logos/vilpe.png": "3aa9fba3faac2b19018ac7c5b7ee685f",
@@ -52,14 +54,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "ae9331c823a62cef6ae637fe02962f9c
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "b232cd969c0cb38f4a9d622f7d3c9820",
+"flutter_bootstrap.js": "4c808956ed7a1456e33b3cb41d9d3533",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3d4354260ef80f5586a445df39a8498c",
-"/": "3d4354260ef80f5586a445df39a8498c",
-"main.dart.js": "1dfed3435d476abcddd61a3e7d90ec6f",
+"index.html": "73a39df4344ccd2c267e4cc7097ec7bc",
+"/": "73a39df4344ccd2c267e4cc7097ec7bc",
+"main.dart.js": "4c8beccd184eaca99ca7e50578cb15d9",
 "manifest.json": "9f78207f15c7900eca7fd79fd6b8bf0d",
 "version.json": "00a064811a1326ef49c71e9b8d36a984"};
 // The application shell files that are downloaded before a service worker can
