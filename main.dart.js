@@ -49086,7 +49086,7 @@ bA(){this.cm()
 this.cc()
 this.hy()}}
 A.Gt.prototype={
-aa(){return new A.a3_(A.b(["assets/sponsor_logos/atflow.png","assets/sponsor_logos/tnnet.png","assets/sponsor_logos/cave.png"],t.s),null,null)}}
+aa(){return new A.a3_(A.b(["assets/sponsor_logos/atflow.png","assets/sponsor_logos/tnnet.png","assets/sponsor_logos/cave.png","assets/sponsor_logos/red_bull.png"],t.s),null,null)}}
 A.a3_.prototype={
 ak(){var s,r,q=this,p=null
 q.aB()
@@ -49123,7 +49123,7 @@ s.bZ(0)}},
 $S:22}
 A.aEM.prototype={
 $0(){var s=this.a
-s.e=(s.e+1)%3},
+s.e=(s.e+1)%4},
 $S:0}
 A.Mo.prototype={
 l(){var s=this,r=s.bQ$
